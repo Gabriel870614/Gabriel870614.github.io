@@ -1,0 +1,25 @@
+* {
+    background-color: none;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: teal;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    color: teal;
+    text-align: center;
+}
+
+p {
+    font-size: 1.3rem;
+    color: orange;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
